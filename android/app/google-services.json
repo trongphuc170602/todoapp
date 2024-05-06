@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962946221343",
+    "project_id": "ex3todosapp-c793f",
+    "storage_bucket": "ex3todosapp-c793f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962946221343:android:8369896e6e3ba2a0b0dc2a",
+        "android_client_info": {
+          "package_name": "com.todosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbpl4I2Cy1sC9xrcpn9_xjQgRrZcu2zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
