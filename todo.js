@@ -16,7 +16,7 @@ function Todo({id, title, complete}){
             title={title}
             onPress={() => toggleComplete()}
             left={props => (
-                <List.Icon {...props} icon={complete ? 'check' : 'cancel'}/>
+                <List.Icon {...props} icon={complete ? 'close' : 'check'}/>
             )}
         />
     )
